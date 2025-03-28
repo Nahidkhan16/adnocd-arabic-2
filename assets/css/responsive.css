@@ -1,0 +1,1307 @@
+/* XL Device :1200px. */
+@media (min-width: 1300px) and (max-width: 1449px) {
+    .logo {
+        width: 50px;
+    }
+    .header_area {
+        padding: 20px 0;
+    }
+    .hero_main {
+        padding-top: 145px;
+        padding-bottom: 30px;
+    }
+    .hero-wrapper-title h2 br {
+        display: none;
+    }
+    .hero-wrapper-title h2 {
+        width: 600px;
+    }
+    .main_menu nav ul li {
+        margin-left: 19px;
+    }
+    .main_menu nav ul li a {
+        font-size: 15px;
+    }
+    .hero-wrapper-title h3 {
+        font-size: 70px;
+        line-height: 74px;
+    }
+    .distribution_area {
+        padding: 46px 0;
+    }
+    .distribution_area {
+        padding: 42px 0;
+    }
+    .section_title h2 {
+        font-size: 70px;
+        margin-bottom: -8px;
+        line-height: 80px;
+    }
+    .section_title h5 {
+        font-size: 16px;
+    }
+    .section_title p {
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: 15px;
+    }
+    .distribution_box-content span {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .section_title.right_text {
+        margin-left: 110px;
+    }
+    .coundown-item span {
+        font-size: 32px !important;
+    }
+    .hero-wrapper-title h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .hero-wrapper-title p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .hero-wrapper-list ul li {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 8px;
+    }
+    .hero-wrapper-list ul li a {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 8px;
+    }
+    .hero-wrapper-list ul li::after {
+        width: 12px;
+        height: 12px;
+        left: -20px;
+    }
+    .hero-wrapper-list {
+        margin-top: 18px;
+    }
+    .message_area {
+        padding: 50px 0;
+    }
+    .message_title h4 {
+        font-size: 36px;
+        line-height: 38px;
+    }
+    .message_content_text p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .coundown-wrapper h2 {
+        font-size: 34px;
+        line-height: 40px;
+        margin-bottom: 4px;
+    }
+    .coundown-wrapper p {
+        font-size: 18px;
+        line-height: 16px;
+    }
+    .message_content_card-text h5 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .message_thumbnail-title-two h2 {
+        margin-left: 10px;
+    }
+    .message_content-bottom_two {
+        right: -55px;
+    }
+    .distribution_icon.distribution_icon_four img {
+        width: 50px;
+    }
+    .distribution_icon.distribution_icon_two img {
+        width: 45px;
+    }
+
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .logo {
+        width: 55px;
+    }
+    .header_area {
+        padding: 20px 0;
+    }
+    .hero_main {
+        padding-top: 145px;
+        padding-bottom: 40px;
+    }
+    .hero-wrapper-title h2 br {
+        display: none;
+    }
+    .hero-wrapper-title h2 {
+        width: 600px;
+    }
+    .main_menu nav ul li a {
+        font-size: 14px;
+    }
+    .main_menu nav ul li {
+        margin-left: 17px;
+    }
+    .message_thumbnail-title-two h2 {
+        margin-left: 0;
+    }
+    .hero-wrapper-title h3 {
+        font-size: 60px;
+        line-height: 64px;
+    }
+    .hero_box-text p {
+        font-size: 14px;
+    }
+    .distribution_area {
+        padding: 40px 0;
+    }
+    .section_title h4 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .section_title h2 {
+        font-size: 60px;
+        margin-bottom: -10px;
+        line-height: 72px;
+    }
+    .section_title p {
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: 8px;
+    }
+    .distribution-btn a span {
+        top: 2px;
+    }
+    .section_title.right_text {
+        margin-left: 98px;
+    }
+    .distribution_icon {
+        margin-left: 10px;
+    }
+    .distribution_icon img {
+        width: 60px;
+    }
+    .distribution_box_item {
+        margin-right: 22px;
+    }
+    .distribution_box-wrapper {
+        padding-top: 60px;
+    }
+    .distribution_box {
+        width: 170px;
+        margin-bottom: 22px;
+        padding: 20px;
+    }
+    .distribution_box-content h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-bottom: 3px;
+    }
+    .distribution_box-content p {
+        font-size: 15px;
+        line-height: 16px;
+    }
+    .distribution_box-content span {
+        font-size: 15px;
+        line-height: 16px;
+    }
+    .distribution_box-wrapper {
+        padding-top: 45px;
+    }
+    .coundown-item span {
+        font-size: 28px !important;
+    }
+    .coundown-item p {
+        font-size: 18px !important;
+    }
+    .distribution_box-content h5 {
+        font-size: 16px;
+    }
+    .hero-wrapper-title h2 {
+        font-size: 28px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+    .hero-wrapper-title p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .hero-wrapper-list {
+        margin-top: 14px;
+        margin-left: 18px;
+    }
+    .hero-wrapper-list ul li {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 6px;
+    }
+    .hero-wrapper-list ul li a {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 6px;
+    }
+    .hero-wrapper-list ul li::after {
+        width: 10px;
+        height: 10px;
+        left: -16px;
+    }
+    .message_title h4 {
+        font-size: 34px;
+        line-height: 36px;
+    }
+    .section_title h5 {
+        font-size: 18px;
+        line-height: 16px;
+    }
+    .message_content_text p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .message_content_card-text span {
+        font-size: 16px;
+        line-height: 14px;
+    }
+    .coundown-wrapper h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-bottom: 3px;
+    }
+    .message_content_card-text h5 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .coundown-wrapper span {
+        font-size: 30px;
+        line-height: 36px;
+        margin-bottom: 3px;
+    }
+    .message_content-bottom {
+        bottom: -120px;
+        left: 26px;
+    }
+    .review_card-content h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .review_card_coundown span {
+        font-size: 16px;
+    }
+    .review_card_coundown h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-bottom: 3px;
+    }
+    .review_card-content p {
+        font-size: 15px;
+    }
+    .review_card {
+        padding: 14px;
+        max-width: 185px;
+        height: 445px;
+        margin-top: 16px;
+    }
+    .review_area {
+        padding: 40px 0;
+    }
+    .review_bottom-text p {
+        margin-top: 26px;
+        margin-bottom: 22px;
+    }
+    .message_content-bottom_two {
+        right: 2px;
+    }
+    .distribution_icon.distribution_icon_two img {
+        width: 42px;
+    }
+    .distribution_icon.distribution_icon_four img {
+        width: 44px;
+    }
+
+
+
+
+}
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 1200px) {
+    .menu_bar img {
+        width: 35px;
+        cursor: pointer;
+    }
+    .menu_bar {
+        display: block;
+        text-align: right;
+    }
+    .main_menu {
+        position: fixed;
+        width: 280px;
+        top: 0;
+        z-index: 99;
+        background: #1B1F45;
+        height: 100%;
+        transition: .3s;
+        padding: 20px;
+        text-align: left;
+        padding-top: 100px;
+        right: -100%;
+        opacity: 0;
+        visibility: hidden;
+        box-shadow: #EDEAFA;
+    }
+    .main_menu.active {
+        opacity: 1;
+        visibility: visible;
+        right: 0;
+        z-index: 999;
+    }
+    .main_menu ul li {
+        display: block;
+        margin: 0;
+    }
+    .main_menu nav ul {
+        display: block;
+    }
+    .main_menu ul li a {
+        padding: 8px 0;
+        font-size: 14px !important;
+    }
+    .menu_bar img {
+        width: 40px;
+    }
+    .menu-x {
+        display: block;
+        cursor: pointer;
+        position: absolute;
+        top: 25px;
+        width: 36px;
+    }
+    .main_menu nav ul li {
+        margin-left: 0;
+    }
+    .main_menu nav li a:after {
+        bottom: 6px;
+    }
+
+
+
+}
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .logo {
+        width: 50px;
+    }
+    .header_area {
+        padding: 18px 0;
+    }
+    .hero_main {
+        padding-top: 130px;
+        padding-bottom: 30px;
+    }
+    .hero-wrapper-title h2 br {
+        display: none;
+    }
+    .hero-wrapper-title h2 {
+        width: 600px;
+    }
+    .hero-wrapper-title h3 {
+        font-size: 50px;
+        line-height: 54px;
+    }
+    .hero_box-text p {
+        margin-top: 6px;
+        font-size: 14px;
+    }
+    .hero_single_box {
+        height: 100px;
+    }
+    .hero_single_box {
+        padding: 10px 16px;
+    }
+    .hero_single_box.hero_single_box_one {
+        height: 110px;
+    }
+    .distribution_area {
+        padding: 34px 0;
+    }
+    .section_title h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .section_title h2 {
+        font-size: 50px;
+        margin-bottom: -10px;
+        line-height: 66px;
+    }
+    .section_title h5 {
+        font-size: 16px;
+    }
+    .section_title p {
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 11px;
+    }
+    .section_title.right_text {
+        margin-left: 90px;
+    }
+    .section_title p {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .distribution_box-wrapper {
+        padding-top: 34px;
+    }
+    .distribution_icon img {
+        width: 53px;
+    }
+    .distribution_box-content h2 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-bottom: 4px;
+    }
+    .distribution_box-content p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .distribution_box_item {
+        margin-right: 14px;
+    }
+    .distribution_box {
+        width: 176px;
+        margin-bottom: 14px;
+        padding: 15px 14px;
+    }
+    .distribution_box_red {
+        margin-top: 60px;
+    }
+    .distribution_box-content h5 {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .distribution-btn a span {
+        top: 2px;
+    }
+    .distribution_box-content span {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .distribution_box-wrapper {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+    }
+    .distribution_box_item.mediumturquoise_box_mt {
+        margin-top: 0;
+    }
+    .distribution-btn {
+        margin-top: 20px;
+    }
+    .coundown-item span {
+        font-size: 26px !important;
+    }
+    .coundown-item p {
+        font-size: 17px !important;
+    }
+    .hero-wrapper-title h2 {
+        font-size: 28px;
+        line-height: 32px;
+        margin-bottom: 6px;
+    }
+    .hero-wrapper-title p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .hero-wrapper-list ul li {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 6px;
+    }
+    .hero-wrapper-list ul li a {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 6px;
+    }
+    .hero-wrapper-list ul li::after {
+        width: 10px;
+        height: 10px;
+        left: -17px;
+    }
+    .hero-wrapper-list {
+        margin-top: 16px;
+        margin-left: 18px;
+    }
+    .message_area {
+        padding: 46px 0;
+    }
+    .message_title h4 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .message_content_text p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .message_content-bottom h5 {
+        font-size: 14px;
+    }
+    .message_content-bottom p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .message_content-bottom {
+        bottom: -55px;
+        left: 18px;
+    }
+    .message_content-bottom::after {
+        width: 10px;
+        height: 10px;
+        left: -15px;
+    }
+    .message_thumbnail_wrapper {
+        height: 540px;
+    }
+    .message_content_card-text span {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .coundown-wrapper h2 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-bottom: 4px;
+    }
+    .coundown-wrapper p {
+        font-size: 17px;
+    }
+    .coundown-wrapper span {
+        font-size: 26px;
+        margin-bottom: 1px;
+    }
+    .message_content_card-text h5 {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 4px;
+    }
+    .message_area {
+        padding: 40px 0;
+    }
+    .message_thumbnail-title-two h5 {
+        padding-top: 12px;
+        margin-right: 100px;
+    }
+    .review_area {
+        padding: 40px 0;
+    }
+    .review_card-content h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .review_card_coundown span {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .review_card_coundown h2 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-bottom: 4px;
+    }
+    .review_card-content p {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .review_card-content p b {
+        font-size: 14px;
+    }
+    .message_content_card_icon {
+        margin-bottom: 6px;
+    }
+    .review_card {
+        background: #F1F1F2;
+        padding: 10px;
+        width: 150px;
+        height: 446px;
+        margin-top: 14px;
+    }
+    .nummber p {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .distribution_single_box.progressbar span {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .review_bottom-text p {
+        margin-top: 26px;
+        margin-bottom: 20px;
+    }
+    .message_thumbnail-title-two h5 {
+        text-align: left;
+    }
+    .message_thumbnail-title-two h2 {
+        margin-left: 0;
+    }
+    .message_content-bottom_two {
+        right: -2px;
+    }
+    .distribution_icon.distribution_icon_two img {
+        width: 38px;
+    }
+    .distribution_icon.distribution_icon_four img {
+        width: 40px;
+    }
+
+
+    
+}
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .logo {
+        width: 45px;
+    }
+    .header_area {
+        padding: 18px 0;
+    }
+    .hero_main {
+        padding-top: 120px;
+        padding-bottom: 20px;
+    }
+    .hero-wrapper-title h3 {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    .hero_box-text p {
+        margin-top: 6px;
+        font-size: 14px;
+    }
+    .hero_box_icon p {
+        font-size: 11px;
+        margin: 0px 5px;
+    }
+    .hero_single_box.hero_single_box_one {
+        height: 110px;
+    }
+    .distribution_area {
+        padding: 34px 0;
+    }
+    .section_title h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .section_title h2 {
+        font-size: 40px;
+        margin-bottom: -13px;
+        line-height: 72px;
+    }
+    .section_title p {
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 10px;
+    }
+    .section_title.right_text {
+        margin-left: 65px;
+        margin-top: -34px;
+    }
+    .section_title p {
+        font-size: 12px;
+        line-height: 14px;
+        margin-top: 8px !important;
+    }
+    .distribution_box-content span {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .distribution-btn a {
+        font-size: 12px;
+    }
+    .distribution_box-wrapper {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .distribution_icon img {
+        width: 50px;
+    }
+    .distribution_box-content h2 {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 3px;
+    }
+    .distribution_box-content p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .distribution_box {
+        width: 160px;
+        margin-bottom: 16px;
+        padding: 20px 16px;
+    }
+    .distribution_box_item {
+        margin-right: 16px;
+    }
+    .distribution_box-wrapper {
+        padding-top: 28px;
+    }
+    .distribution_box_item.green_box_mt {
+        margin-top: -120px;
+    }
+    .distribution_box_item.mediumturquoise_box_mt {
+        margin-top: 0;
+    }
+    .distribution-btn {
+        margin-top: 10px;
+        gap: 10px;
+    }
+    .coundown-item p {
+        font-size: 16px !important;
+    }
+    .coundown-item span {
+        font-size: 24px !important;
+    }
+    .distribution_box-content h5 {
+        font-size: 14px;
+    }
+    .hero-wrapper-title h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .hero-wrapper-title p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .hero-wrapper-list ul li {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 5px;
+    }
+    .hero-wrapper-list ul li a {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 5px;
+    }
+    .hero-wrapper-list ul li::after {
+        width: 9px;
+        height: 9px;
+        left: -15px;
+    }
+    .hero-wrapper-list {
+        margin-top: 14px;
+        margin-left: 18px;
+    }
+    .message_area {
+        padding: 35px 0;
+    }
+    .message_title h4 {
+        font-size: 26px;
+        line-height: 26px;
+    }
+    .message_thumbnail_wrapper {
+        height: 450px;
+    }
+    .message_thumbnail-title {
+        padding-top: 10px;
+        padding-left: 19px;
+    }
+    .message_content_text p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .message_content-bottom {
+        bottom: -70px;
+    }
+    .message_content-bottom h5 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .message_content-bottom p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .message_content-bottom::after {
+        width: 10px;
+        height: 10px;
+        left: -14px;
+        top: 8%;
+    }
+    .message_content_card-text span {
+        font-size: 14px;
+    }
+    .coundown-wrapper h2 {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 3px;
+    }
+    .coundown-wrapper p {
+        font-size: 16px;
+    }
+    .message_content_card-text h5 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 1px;
+    }
+    .coundown-wrapper span {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 3px;
+    }
+    .section_title h5 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .review_card-content h4 {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .review_card_coundown span {
+        font-size: 16px;
+        line-height: 14px;
+    }
+    .review_card_coundown h2 {
+        font-size: 26px;
+        line-height: 31px;
+        margin-bottom: 2px;
+    }
+    .review_card-content p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .review_card-content p {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .review_card {
+        padding: 12px;
+        width: 175px;
+        height: 380px;
+        margin-top: 16px;
+    }
+    .message_thumbnail-title-two h2 {
+        margin-left: -30px;
+        margin-top: -34px;
+    }
+    .message_thumbnail-title-two h5 {
+        padding-top: 12px;
+        margin-bottom: 24px;
+    }
+    .message_content-bottom_two {
+        right: 5px;
+    }
+    .review_area {
+        padding: 35px 0;
+    }
+    .nummber p {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .progressbar_list p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .progressbar_list p::after {
+        width: 10px;
+        height: 10px;
+        left: -17px;
+        top: 5%;
+    }
+    .distribution_single_box.progressbar span {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .progressbar_wrapper_content {
+        margin-left: -35px;
+    }
+    .review_bottom-text p {
+        margin-top: 24px;
+        font-size: 13px;
+        line-height: 16px;
+        margin-bottom: 12px;
+    }
+    .review_card-content p b {
+        font-size: 13px;
+    }
+    .distribution-btn a span {
+        top: 2px;
+    }
+    .message_thumbnail-title-two h5 {
+        text-align: left;
+    }
+    .distribution_icon.distribution_icon_two img {
+        width: 36px;
+    }
+    .distribution_icon.distribution_icon_four img {
+        width: 38px;
+    }
+    .distribution_icon.distribution_icon_five img {
+        width: 34px;
+    }
+
+
+}
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 991px) {
+}
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+    .logo {
+        width: 40px;
+    }
+    .hero_main {
+        padding-top: 130px;
+        padding-bottom: 30px;
+    }
+    .hero_main.hero_main_five {
+        padding-top: 110px;
+        gap: 8px;
+    }
+    .hero-wrapper-title h3 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .hero_box_icon img {
+        width: 24px;
+    }
+    .hero_box_icon p {
+        font-size: 10px;
+        margin: 0 6px;
+    }
+    .hero_box-text p {
+        margin-top: 8px;
+        font-size: 13px;
+    }
+    .hero_single_box.hero_single_box_one {
+        height: 110px;
+    }
+    .hero_content-box {
+        margin-right: 14px;
+    }
+    .hero-wrapper_list_item {
+        display: block;
+    }
+    .hero_single_box {
+        padding: 10px 12px;
+    }
+    .section_title h4 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .section_title h2 {
+        font-size: 34px;
+        margin-bottom: -9px;
+        line-height: 52px;
+    }
+    .section_title h5 {
+        font-size: 14px;
+        margin-bottom: 0;
+        line-height: 17px;
+    }
+    .section_title p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 12px;
+    }
+    .section_title.right_text {
+        margin-left: 30px;
+    }
+    .section_title p {
+        font-size: 11px;
+        line-height: 14px;
+        margin-top: 5px;
+    }
+    .distribution_box-content span {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .section_title p br {
+        display: none;
+    }
+    .highlights_area {
+        padding: 20px 0;
+    }
+    .distribution_area {
+        padding: 26px 0;
+    }
+    .distribution_icon img {
+        width: 50px;
+        margin-top: -20px;
+    }
+    .distribution_box-content h2 {
+        font-size: 24px;
+        line-height: 26px;
+        margin-bottom: 2px;
+    }
+    .distribution_box-content p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .distribution-btn {
+        margin-top: 26px;
+        justify-content: center;
+        gap: 8px;
+    }
+    .distribution_icon.distribution_icon_two img {
+        width: 38px;
+        margin-top: -14px;
+    }
+    .distribution_icon.distribution_icon_four img {
+        width: 40px;
+        margin-top: -14px;
+    }
+    .distribution_icon.distribution_icon_five img {
+        width: 32px;
+        margin-top: -14px;
+    }
+    .distribution_icon {
+        margin-left: 0;
+        margin-bottom: 4px;
+        text-align: center;
+    }
+    .distribution_box-content p br {
+        display: none;
+    }
+    .distribution_box {
+        width: 300px;
+        padding: 30px;
+        margin: 0 auto;
+        margin-bottom: 22px;
+        display: block;
+    }
+    .distribution_box_item {
+        margin-right: 0;
+    }
+    .coundown-item p {
+        font-size: 16px !important;
+    }
+
+    .distribution_box-wrapper {
+        padding-top: 34px;
+        display: block;
+    }
+    .distribution_box_red {
+        margin-top: 0;
+    }
+    .distribution_box_orange {
+        margin-top: 0;
+    }
+    .distribution_box_item.blue_box_mt {
+        margin-top: 0;
+    }
+    .distribution_box_item.red_box_mt {
+        margin-top: 0;
+    }
+    .distribution_box_item.green_box_mt {
+        margin-top: 0;
+    }
+    .distribution_box_item.mediumturquoise_box_mt {
+        margin-top: 0;
+    }
+    .coundown-item span {
+        font-size: 22px !important;
+    }
+    .distribution_box_item.mediumturquoise_box_mt {
+        margin-top: 0;
+    }
+    .distribution_box-content h5 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .hero-wrapper-list ul li {
+        font-size: 13px;
+        line-height: 15px;
+        margin-bottom: 6px;
+    }
+    .hero-wrapper-list ul li a {
+        font-size: 13px;
+        line-height: 15px;
+        margin-bottom: 6px;
+    }
+    .hero-wrapper-title p {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .hero-wrapper-list ul li::after {
+        width: 10px;
+        height: 10px;
+        left: -18px;
+        top: 5%;
+    }
+    .hero-wrapper-list {
+        margin-top: 6px;
+        margin-left: 18px;
+    }
+    .hero-wrapper-title h2 {
+        font-size: 22px;
+        line-height: 26px;
+        margin-bottom: 7px;
+    }
+    .message_area {
+        padding: 40px 0;
+        padding-bottom: 110px;
+    }
+    .message_title h4 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .message_thumbnail-title {
+        padding-top: 12px;
+        padding-left: 12px;
+    }
+    .message_thumbnail_wrapper {
+        height: 550px;
+    }
+    .message_content_text {
+        margin-top: 40px;
+    }
+    .review_area {
+        padding: 40px 0;
+    }
+    .message_content_text p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .message_content_card {
+        padding: 20px;
+        width: 100%;
+    }
+    .message_content_card-text span {
+        font-size: 16px;
+    }
+    .coundown-wrapper h2 {
+        font-size: 22px;
+        line-height: 26px;
+        margin-bottom: 2px;
+    }
+    .coundown-wrapper p {
+        font-size: 16px;
+        line-height: 16px;
+        margin-left: 3px;
+    }
+    .message_content_card-text h5 {
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 2px;
+    }
+    .coundown-wrapper span {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 4px;
+    }
+    .message_content-bottom {
+        bottom: -90px;
+        left: 35px;
+    }
+    .message_content_wrapper {
+        display: block;
+    }
+    .message_thumbnail-title-two h2 {
+        margin-left: 22px;
+    }
+    .message_thumbnail-title-two h5 {
+        text-align: left;
+        padding-top: 26px;
+        margin-left: 20px;
+    }
+    .message_content-bottom_two {
+        left: 30px;
+    }
+    .message_content_text.two {
+        margin-top: 36px;
+    }
+    .review_card {
+        padding: 32px;
+        width: 100%;
+        height: 320px;
+        margin-top: 24px;
+    }
+    .review_card-content h4 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .review_card_coundown span {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .review_card_coundown h2 {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 3px;
+    }
+    .review_card-content p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .review_card-content p {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .nummber p {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .distribution_single_box.progressbar span {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .progressbar_list p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .progressbar_list p::after {
+        width: 10px;
+        height: 10px;
+        left: -16px;
+        top: 6%;
+    }
+    .progressbar_wrapper_content {
+        margin-left: -28px;
+    }
+    .header_area {
+        padding: 18px 0;
+    }
+    .review_bottom-text p {
+        margin-top: 20px;
+        font-size: 12px;
+        line-height: 16px;
+        margin-bottom: 16px;
+    }
+    .review_card-content p b {
+        font-size: 14px;
+    }
+    .message_content_card_icon {
+        margin-bottom: 6px;
+    }
+    .distribution-btn a {
+        font-size: 12px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {}

@@ -1,0 +1,229 @@
+
+/* Base CSS */
+
+@font-face {
+    font-family: 'Adnocs-arabic-regular';
+    src: url('../fonts/AdobeArabic-Regular.otf');
+}
+
+body.arabic_font {
+    font-family: 'Adnocs-arabic-regular' !important;
+}
+
+
+
+/*----------- Arabic Area Css Start ----------- */
+.main_menu nav ul li {
+    margin-left: 30px;
+}
+.main_menu nav ul li:last-child {
+    margin-left: 0;
+}
+
+.hero-wrapper-list ul li::after {
+    right: -22px;
+}
+.hero-wrapper-list {
+    margin-right: 24px;
+}
+.section_title h2 {
+    margin-bottom: 26px;
+    margin-top: 16px;
+}
+.distribution_icon {
+    margin-right: 40px;
+}
+.coundown-item p {
+    font-size: 16px !important;
+    margin-right: 6px;
+    line-height: 16px !important;
+}
+
+.section_title.blue_text h2 {
+    margin-bottom: 0;
+}
+
+.distribution_single_box {
+    text-align: right;
+}
+.distribution-btn a {
+    font-size: 12px;
+}
+.section_title.right_text h2 {
+    margin-right: 192px;
+    margin-top: -22px;
+}
+.section_title h5 {
+    font-size: 13px;
+    line-height: 12px;
+    margin-right: 146px;
+    margin-top: -18px;
+}
+.review_card-content h4 {
+    font-size: 18px;
+    line-height: 22px;
+}
+.review_card-content p {
+    font-size: 14px;
+    line-height: 16px;
+}
+.progressbar_wrapper_content {
+    margin-right: 60px;
+}
+.progressbar_list p::after {
+    right: -22px;
+}
+.message_content-bottom_two::after {
+    right: -22px;
+    top: 3%;
+}
+.message_content-bottom::after {
+    right: -22px;
+    top: 3%;
+}
+.section_title h2 {
+    margin-bottom: 20px;
+    margin-top: 4px;
+}
+.message_thumbnail-title {
+    padding-top: 16px;
+    padding-right: 40px;
+}
+.message_thumbnail-title-two h5 {
+    text-align: right;
+    margin-right: 0;
+}
+
+
+
+.message_thumbnail-title {
+    padding-top: 16px;
+    padding-right: 20px;
+}
+.message_thumbnail-title {
+    padding-left: 0;
+}
+.section_title h2 {
+    font-size: 57px;
+    margin-bottom: -7px;
+    line-height: 78px;
+}
+.section_title.arabic_one h5 {
+    font-size: 16px;
+    line-height: 18px;
+    margin-right: 0;
+    margin-top: 3px;
+}
+.message_title {
+    margin-bottom: 28px;
+}
+.message_content_card_icon img {
+    width: 50px;
+}
+.section_title.arabic_two {
+    text-align: left;
+}
+.section_title.arabic_two h5 {
+    text-align: left;
+    margin-left: 30px;
+}
+.section_title.arabic_two h2 {
+    margin-left: 30px;
+}
+.message_content-bottom_two {
+    left: -60px !important;
+    right: unset;
+}
+
+.hero_box-text p {
+    font-family: 'Adnocs-Dedium';
+}
+.section_title h2 {
+    font-size: 80px;
+    margin-bottom: 3px;
+    line-height: 90px;
+}
+.section_title h4 {
+    font-size: 16px;
+    line-height: 22px;
+}
+.section_title p {
+    font-size: 18px;
+    line-height: 22px;
+    margin-top: 24px;
+    font-family: 'Adnocs-Dedium' !important;
+}
+.distribution_box-content p {
+    font-family: 'Adnocs-Dedium';
+}
+p.section_title_arabic_text {
+    font-size: 13px;
+    line-height: 16px;
+    margin-top: 2px !important;
+}
+.distribution_box-content span {
+    font-size: 17px;
+    margin-top: -7px;
+}
+
+
+.message_thumbnail-title.thumbnail-title-two {
+    position: absolute;
+    z-index: 1;
+}
+.message_thumbnail_wrapper {
+    height: 645px;
+}
+.message_thumbnail-title-two {
+    position: absolute;
+    left: 75px;
+    top: 22px;
+}
+.coundown-wrapper.red-color {
+    margin-bottom: -10px;
+    margin-top: 6px;
+}
+p.review_card_arabic {
+    font-family: 'Adnocs-bold';
+}
+.review_card {
+    height: 410px;
+}
+.hero_single_box.hero_single_box_one {
+    height: 120px;
+    width: 110px;
+}
+.review_bottom-text p {
+    font-family: 'Adnocs-Dedium';
+}
+.distribution_box-content p {
+    line-height: 22px;
+}
+.distribution_box {
+    max-width: 205px;
+    margin-bottom: 30px;
+    padding: 22px 14px;
+}
+.distribution_box_item {
+    margin-right: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------- Arabic Area Css End ----------- */
+
+
+

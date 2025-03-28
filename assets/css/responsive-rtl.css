@@ -1,0 +1,278 @@
+/* XL Device :1200px. */
+@media (min-width: 1300px) and (max-width: 1449px) {
+    .section_title.right_text h2 {
+        margin-right: 168px;
+        margin-top: -22px;
+    }
+    .section_title h5 {
+        margin-right: 126px;
+        margin-top: -12px;
+        font-size: 14px;
+    }
+    .message_content-bottom_two {
+        right: 50px;
+    }
+
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+   
+    .section_title h2 {
+        margin-bottom: 6px;
+        text-align: unset;
+    }
+    .section_title h5 {
+        font-size: 13px;
+        line-height: 16px;
+        margin-right: 118px;
+        margin-top: -14px;
+    }
+    .section_title.right_text h2 {
+        margin-right: 155px;
+        margin-top: -20px;
+    }
+    .section_title h2 {
+        font-size: 56px;
+        line-height: 66px;
+    }
+    .message_content-bottom {
+        right: 34px;
+    }
+    .message_content-bottom_two {
+        left: 54px !important;
+        bottom: -110px;
+    }
+    .section_title h2 {
+        font-size: 65px;
+        margin-bottom: 2px;
+        line-height: 73px;
+    }
+    .message_content-bottom {
+        right: 24px;
+    }
+    .message_content-bottom_two {
+        right: 50px;
+    }
+
+}
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 1200px) {
+    
+
+
+
+    .main_menu {
+        width: 100%;
+        text-align: center;
+    }
+    .menu-x {
+        top: 24px;
+        width: 36px;
+        left: 14px;
+    } 
+
+}
+
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    
+    .section_title h2 {
+        margin-bottom: 4px;
+        text-align: unset;
+    }
+    .section_title h5 {
+        font-size: 12px;
+        line-height: 14px;
+        margin-right: 109px;
+        margin-top: -14px;
+    }
+    .section_title.right_text h2 {
+        margin-right: 144px;
+        margin-top: -17px;
+    }
+    .message_content-bottom_two {
+        right: 50px;
+    }
+    .section_title h2 {
+        font-size: 60px;
+    }
+    .message_content-bottom {
+        bottom: -55px;
+        right: 36px;
+    }
+    .section_title h4 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+
+}
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .section_title h5 {
+        font-size: 12px;
+        line-height: 14px;
+        margin-right: 89px;
+        margin-top: -27px;
+    }
+    .section_title h4 {
+        margin-bottom: -7px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .section_title.right_text h2 {
+        margin-right: 119px;
+        margin-top: 16px;
+        margin-bottom: -6px;
+    }
+    .progressbar_card, .progressbar_card_two, .progressbar_card_three {
+        margin-right: -60px;
+    }
+    .progressbar_wrapper_content {
+        margin-left: 0;
+    }
+    .progressbar_wrapper_content {
+        margin-right: 30px;
+    }
+    .message_content-bottom_two {
+        right: 45px;
+        bottom: -70px;
+    }
+    .message_thumbnail_wrapper {
+        height: 470px;
+    }
+    .section_title h2 {
+        font-size: 50px;
+        margin-bottom: 16px;
+        line-height: 58px;
+    }
+    .message_content-bottom {
+        bottom: -54px;
+        right: 30px;
+    }
+
+    .section_title.arabic_two h5 {
+        margin-left: 0;
+        margin-bottom: 38px;
+    }
+    .section_title.arabic_two h2 {
+        margin-left: 0;
+    }
+
+
+
+}
+
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+    .section_title h5 {
+        font-size: 12px;
+        line-height: 14px;
+        margin-right: 63px;
+        margin-top: -12px;
+    }
+    .section_title p br {
+        display: none;
+    }
+    .section_title.right_text h2 {
+        margin-right: 96px;
+        margin-top: -15px;
+        margin-bottom: 0px;
+    }
+
+    .message_content_card.whith_bg {
+        background: #fff;
+        margin-right: 0;
+    }
+    .message_content-bottom_two {
+        left: 120px !important;
+        right: unset;
+    }
+    .progressbar_wrapper_content {
+        margin-left: 0;
+    }
+    .progressbar_wrapper_content {
+        margin-right: 34px;
+    }
+    .progressbar_card, .progressbar_card_two, .progressbar_card_three {
+        margin-right: -60px;
+    }
+    .progressbar_item {
+        display: flex;
+        align-items: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .section_title h2 {
+        font-size: 40px;
+        margin-bottom: 3px;
+        line-height: 48px;
+    }
+    .section_title h4 {
+        font-size: 13px;
+        line-height: 11px;
+    }
+    .section_title h5 {
+        font-size: 10px;
+        line-height: 14px;
+        margin-right: 74px;
+        margin-top: -14px;
+    }
+    .distribution_box {
+        max-width: 100%;
+    }
+    .section_title.arabic_one h5 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .message_content-bottom {
+        right: 33px;
+    }
+    .distribution_icon {
+        margin-right: 0;
+    }
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {}
